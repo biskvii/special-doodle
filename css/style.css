@@ -1,13 +1,20 @@
 /* Feel free to change me and make me your own! */
 
 body {
-  background-color: #edd8c3; 
-  font-family: Georgia, serif; 
+  background-image: url("stars.jpg"); 
+  font-family: Futura; 
 }
 
 article {
-  margin-left: 10vw; 
-  margin-right: 10vw; 
+    background-color: green;
+  margin-left: 20vw; 
+  margin-right: 20vw; 
+  border: 2px solid darkgreen;
+  border-radius: 50px;
+   padding-top: 50px;
+  padding-right: 80px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
 
 h1 {
